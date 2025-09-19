@@ -2,11 +2,6 @@
 
 A revolutionary decentralized lottery system built on Stacks blockchain that leverages Bitcoin's immutable block hashes for provably fair randomness.
 
-![Stacks](https://img.shields.io/badge/Stacks-2.0-purple)
-![Clarity](https://img.shields.io/badge/Clarity-Smart%20Contract-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Production%20Ready-success)
-
 ## 🌟 Features
 
 ### Core Functionality
